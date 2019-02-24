@@ -1,0 +1,28 @@
+//What is the DOM?
+DOM stands for Document Object Model
+and it give Javascript access and can change all elements of an HTML document
+
+//List three methods to manipulate the DOM.
+1. querySelector()
+2. addEventListener()
+3. createElement()
+
+//What is an asynchronous call?
+an asynchronous call is a request that will wait the time set is right then the callback will spring asynchronous request into action
+
+//Briefly explain what the sources tab in Chromes Developers Tools does.
+In the sources tab you can see all the resources that the page has loaded. 
+
+
+//What is a JavaScript promise?
+A promise represent the eventual result of an asynchronous operation. 
+
+//What is an API?
+It stands for Application Programming Interface
+Which is a software that allows two applications to talk to each other.
+
+//What is a JavaScript Event?
+JavaScript event are things that happend to a HTML element.
+
+//What is event bubbling?
+event bubbling is a type of event that trigger the most inner element and successively triggers on the parents of the target element in the same nesting till it reaches the outermost DOM element or document object.
